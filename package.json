@@ -1,0 +1,28 @@
+{
+  "name": "feedupdate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "zhaxzhax",
+  "license": "ISC",
+  "dependencies": {
+    "_ws@7.2.0@ws": "^7.2.0",
+    "async-limiter": "^1.0.1",
+    "_async-limiter@1.0.1@async-limiter": "^1.0.1",
+    "ws": "^7.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaxzhax/feedupdate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhaxzhax/feedupdate/issues"
+  },
+  "homepage": "https://github.com/zhaxzhax/feedupdate#readme",
+  "description": ""
+}
