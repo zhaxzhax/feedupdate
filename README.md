@@ -1,4 +1,4 @@
-#feed update GG !!!
+# feed update GG !!!
 ### main purpose
 + this project was made just for fun!!!!!!
 + we thought that teach people to rear a update and feed him would be really fun!!!
@@ -17,6 +17,6 @@ node server.js
 `
 to run this server.
 + if you want to deploy this project in your Cloud server, you might need pm2 to manage and listen your mode-js process.
-###Contributor
-#####zhaxzhax
+### Contributor
+##### zhaxzhax
 The manager of this project, who is also in charge of coding the back-end part.
